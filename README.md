@@ -1,5 +1,5 @@
 ### Hi there 👋
-  Hello! I'm Brina and I'm a budding Front-End Web Developer. I love making things and I love computers so being a Front-End Dev combines both of those things. It's really enjoyable to create things people love to use. 
+  I'm Brina and I'm a budding Front-End Web Developer. I love making things and I love computers so being a Front-End Dev combines both of those things. It's really enjoyable to create things people love to use. 
   
   :exclamation: Goals: 
   - Become a Front-End Dev, 
