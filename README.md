@@ -1,8 +1,8 @@
 ### Hi there 👋
-  I'm Brina and I'm a budding Front-End Web Developer. I love making things and I love computers so being a Front-End Dev combines both of those things. It's really enjoyable to create things people love to use. 
+  I'm Brina and I'm a budding Full Stack Web Developer. I love making things and I love computers so being a Full stack Dev combines both of those things. It's really enjoyable to create things people love to use. 
   
   :exclamation: Goals: 
-  - Become a Front-End Dev,
+  - Become a Full Stack Web Dev,
   - Learn Ruby & Ruby on Rails,
   - Learn to sew, 
   - Adopt a Cat, 
