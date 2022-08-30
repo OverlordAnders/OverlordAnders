@@ -22,7 +22,7 @@
   - ⚡ Fun fact: Learning new things makes me really happy. 
   
  <h3>Finished Projects</h3> 
-  <h5>Basic Projects</h5> 
+  <h5>Beginner Projects</h5> 
     <ul>
   <li>
   <a href="https://overlordanders.github.io/odin-recipes/"> Recipes </a>
