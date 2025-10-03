@@ -22,15 +22,7 @@
   - ⚡ Fun fact: Learning new things makes me really happy. 
   
  <h3>Finished Projects</h3> 
-  <h5>Beginner Projects</h5> 
-    <ul>
-  <li>
-  <a href="https://overlordanders.github.io/odin-recipes/"> Recipes </a>
-  </li>
-  <li>
-  <a href="https://overlordanders.github.io/Landing-Page/"> Landing Page </a>
-  </li>
-    </ul>
+  
   
 <!--
 **OverlordAnders/OverlordAnders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
